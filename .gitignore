@@ -1,0 +1,8 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB data files
+*.mat
+
+# Generated outputs
+Filtering/Features/
