@@ -15,7 +15,7 @@ Scripts involved:
 - Data_extraction.m
 - ThreeDimensional_matrix.m
 
-## 2.Filtering
+## 2. Filtering
 EEG signals were decomposed into five frequency bands using a Chebyshev Type II bandpass IIR filter: **delta** (0.5-4 Hz); **theta** (4-7 Hz); **alpha** (8-12 Hz); **beta** (13-30 Hz); **gamma** (>30 Hz)
 
 Scripts involved:
